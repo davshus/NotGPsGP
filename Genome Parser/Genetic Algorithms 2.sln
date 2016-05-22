@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3CE14312-DEBA-854C-AB89-61B4A29DD911}") = "Genetic Algorithms 2", "Assembly-CSharp.csproj", "{3351D7E7-478E-AC36-1C1A-7BF69B06A551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3351D7E7-478E-AC36-1C1A-7BF69B06A551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3351D7E7-478E-AC36-1C1A-7BF69B06A551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3351D7E7-478E-AC36-1C1A-7BF69B06A551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3351D7E7-478E-AC36-1C1A-7BF69B06A551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
