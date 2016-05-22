@@ -1,0 +1,11 @@
+GENE MARKERS
+Enemy rotation: ER
+Bullet Proximity: BP
+Bullet rotation: BR
+Looking at enemy: LE
+
+OUTPUTS
+Shoot: SH
+Rotate: RO
+Strafe: ST
+Move Forward: MF
